@@ -1310,13 +1310,12 @@
   resolved "https://registry.yarnpkg.com/@trysound/sax/-/sax-0.1.1.tgz"
   integrity sha512-Z6DoceYb/1xSg5+e+ZlPZ9v0N16ZvZ+wYMraFue4HYrE4ttONKtsvruIRf6t9TBR0YvSOfi1hUU0fJfBLCDYow==
 
-"@types/bootstrap@^5.1.0":
-  version "5.1.2"
-  resolved "https://registry.yarnpkg.com/@types/bootstrap/-/bootstrap-5.1.2.tgz"
-  integrity sha512-dSQvMi2dMyNwJU6LZjP0pimuBowsMUvGScYdfqqeiDUoj9TxXZCpfu0cTl94U0Zvw/tdH9j/9ToOhi4LKNLZhg==
+"@types/bootstrap@^5.2.6":
+  version "5.2.6"
+  resolved "https://registry.yarnpkg.com/@types/bootstrap/-/bootstrap-5.2.6.tgz#e861b3aa1f4a1434da0bf50fbaa372b6f7e64d2f"
+  integrity sha512-BlAc3YATdasbHoxMoBWODrSF6qwQO/E9X8wVxCCSa6rWjnaZfpkr2N6pUMCY6jj2+wf0muUtLySbvU9etX6YqA==
   dependencies:
     "@popperjs/core" "^2.9.2"
-    "@types/jquery" "*"
 
 "@types/component-emitter@^1.2.10":
   version "1.2.10"
@@ -1374,13 +1373,6 @@
   resolved "https://registry.yarnpkg.com/@types/jasmine/-/jasmine-3.8.2.tgz"
   integrity sha512-u5h7dqzy2XpXTzhOzSNQUQpKGFvROF8ElNX9P/TJvsHnTg/JvsAseVsGWQAQQldqanYaM+5kwxW909BBFAUYsg==
 
-"@types/jquery@*":
-  version "3.5.6"
-  resolved "https://registry.yarnpkg.com/@types/jquery/-/jquery-3.5.6.tgz"
-  integrity sha512-SmgCQRzGPId4MZQKDj9Hqc6kSXFNWZFHpELkyK8AQhf8Zr6HKfCzFv9ZC1Fv3FyQttJZOlap3qYb12h61iZAIg==
-  dependencies:
-    "@types/sizzle" "*"
-
 "@types/json-schema@*", "@types/json-schema@^7.0.5", "@types/json-schema@^7.0.8":
   version "7.0.9"
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.9.tgz"
@@ -1410,11 +1402,6 @@
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/@types/parse-json/-/parse-json-4.0.0.tgz"
   integrity sha512-//oorEZjL6sbPcKUaCdIGlIUeH26mgzimjBB77G6XRgnDl/L5wOnpyBGRe/Mmf5CVW3PwEBE1NjiMZ/ssFh4wA==
-
-"@types/sizzle@*":
-  version "2.3.3"
-  resolved "https://registry.yarnpkg.com/@types/sizzle/-/sizzle-2.3.3.tgz"
-  integrity sha512-JYM8x9EGF163bEyhdJBpR2QX1R5naCJHC8ucJylJ3w9/CVBaskdQ8WqBf8MmQrd1kRvp/a4TS8HJ+bxzR7ZJYQ==
 
 "@types/source-list-map@*":
   version "0.1.2"
